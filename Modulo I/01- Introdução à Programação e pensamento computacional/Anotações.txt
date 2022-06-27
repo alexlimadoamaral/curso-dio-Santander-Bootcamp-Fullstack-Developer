@@ -1,0 +1,43 @@
+Pensamento Computacional:
+
+Diferentemente do que o nome sugere, o pensamento computacional não se relaciona apenas à tecnologia ou à programação,
+muito menos exige o uso de um computador. 
+Essa competência propõe que os indivíduos sejam capazes de identificar problemas e encontrar soluções com criatividade
+e utilizando outros tipos de conhecimento.
+
+Veja a seguir os princípios fundamentais desse conceito.
+
+---Decomposição---
+Essa habilidade refere-se à capacidade de dividir um problema maior em partes menores. 
+Assim, ao trabalhar cada parte de uma vez, fica mais fácil de o(a) aluno(a) entender o problema e resolvê-lo. 
+A vantagem é que diminui a ansiedade e o medo de enfrentar os desafios. No caso da elaboração de um grande projeto escolar,
+ a decomposição é aplicada quando o(a) estudante se organiza e se propõe a fazer uma parte a cada semana.
+
+---Abstração---
+A abstração propõe o foco nos processos importantes em vez de priorizar os detalhes. 
+Dessa forma, a solução pode ser válida para vários problemas diferentes. Ao aplicá-la na área educacional, 
+o(a) aluno(a) entende como realizar exercícios mais rapidamente e pode usar essas técnicas em matérias diferentes, por exemplo.
+
+--Reconhecimento de padrões---
+O reconhecimento de padrões é outro princípio fundamental do pensamento computacional. 
+Ao realizá-lo, a criança consegue identificar tendências de comportamento e similaridades. 
+A partir disso, é possível pensar em novas soluções, utilizando inovação e criatividade.
+
+---Pensamento algorítmico---
+A palavra algoritmo remete ao seu contexto computacional, mas ele também pode ser empregado para 
+simbolizar a criação de passos e soluções até alcançar um objetivo. É a utilização da lógica e da racionalidade para a solução de problemas.
+
+
+
+...Quais são as vantagens do pensamento computacional?
+O pensamento computacional traz várias vantagens para as crianças e ajuda no desenvolvimento sociocognitivo do indivíduo.
+Esse conceito não apenas prepara os jovens para identificar informações, como também para produzir algo importante a partir 
+desses conceitos e aplicá-los em seu cotidiano.
+
+Além disso, contribui para a adaptação das aulas a um contexto social, no qual os indivíduos serão preparados para desenvolverem 
+habilidades diversas que serão importantes nas exigências do mercado de trabalho.
+
+Contribui para a resolução de problemas
+O pensamento computacional estimula a construção do pensamento lógico. Por isso, desde a infância, a criança deve ter contato com 
+atividades que estimulem a percepção de padrões e determinadas ações. Depois de um tempo, de maneira lógica, ela mesma conseguirá
+resolver sozinha os problemas por meio da racionalidade.
